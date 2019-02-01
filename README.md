@@ -3,7 +3,7 @@ A pelican site about my problems with the MacOSX
 
 
 # TODO
-
+<div dir="rtl">
 [] NTFS, ext, .. ?!
 [] تولبار بالا اگر منوها زیاد بشن دیگه آیکون ها رو نشون نمی ده!
 [] can not type vlc on command line and run my app
@@ -25,3 +25,4 @@ A pelican site about my problems with the MacOSX
 [] ده تا ادیتور متن دارم که می خوام یکیش رو استفاده کنم برای ترجمه. همه بیان بالا؟ 
 [] برای موو کردن یک فایل هم کیبورد لازمه هم ماوس
 [] شبدر ان فایندر جدید باز نمی کنه
+</div>
